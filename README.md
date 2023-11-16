@@ -1,3 +1,3 @@
 # HAER
 
-Submission to CVPR 2023。
+Submission to CVPR 2023.
